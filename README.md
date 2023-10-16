@@ -22,7 +22,7 @@
 </div>
 
 
-###:woman_technologist: About Me :
+  ###:woman_technologist: About Me :
 
 
    I'm a digital nomad, learn Python, C++, JS, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
@@ -33,5 +33,5 @@
   
   - :zap: In my free time, I study English, Polish (and other languages) and explore new technologies (microcomputers, technical documentation, etc.).
   
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](#)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-apocryph-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 
