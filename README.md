@@ -21,6 +21,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
 ###:woman_technologist: About Me :
    I'm a digital nomad, learn Python, C++, JS, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
    
